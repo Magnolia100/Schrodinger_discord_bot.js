@@ -1,8 +1,8 @@
  * Schrödinger bot v 1.0.0 (Made by Schrödinger#3828)
  * How To Use
      
-   -add : add~"Command to Add"~"Answer to Add"
-   -talk : talk~"What to Talk"
+   -add : add ~ "Command to Add" ~ "Answer to Add"
+   -talk : talk ~ "What to Talk"
    -howmany : How many Commands do you have
 
  * warning
