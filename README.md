@@ -1,15 +1,15 @@
  * Schrödinger bot v 1.0.0 (Made by Schrödinger#3828)
  * How To Use
      
-   -add : add ~ "Command to Add" ~ "Answer to Add"
-   -talk : talk ~ "What to Talk"
-   -howmany : How many Commands do you have
+   -add : add ~ "Command to Add" ~ "Answer to Add"   
+   -talk : talk ~ "What to Talk"   
+   -howmany : How many Commands do you have   
 
  * warning
     
     - require
 
-        + npm install discord
-        + npm install fs
+        + npm install discord   
+        + npm install fs   
     
     - do not use characters such like '?', '~', '!'
