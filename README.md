@@ -1,4 +1,4 @@
- * Schrödinger bot v 1.0.0 (Made by Schrödinger_bot#3828)
+ * Schrödinger bot v 1.0.0 (Made by )
  * How To Use
      
    -add : add ~ "Command to Add" ~ "Answer to Add"   
